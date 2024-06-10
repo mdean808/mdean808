@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @mdean808
+- Check out [FriendsFM](https://github.com/mdean808/friendsfm) and [audial](https://github.com/mdean808/audial)
